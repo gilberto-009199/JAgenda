@@ -1,9 +1,11 @@
 # Projeto JAgenda
 
 ![Tela inicial](./home.png)
-![Formulario](./homeForm.png)
 
- Agenda de contatos feita em JAVA e banco de dados MS Access
+<img align="right" src="./assets/java16x16.svg" alt="Java" width="64px"/>
+<img align="right" src="./assets/access.svg" alt="Microsoft Access" width="64px"/>
+
+ Agenda de contatos feita em **Java** e banco de dados **MS Access**
 
 ## Execução
 
@@ -18,3 +20,5 @@
 * [Swing](https://pt.wikipedia.org/wiki/Swing_(Java)) - Plataforma para desenvolvimento Desktop multiplataforma com Java
 * [Ucanaccess](http://ucanaccess.sourceforge.net/site.html) - Biblioteca para conexão com o banco de dados Microsoft Access
 
+
+![Formulario](./homeForm.png)
